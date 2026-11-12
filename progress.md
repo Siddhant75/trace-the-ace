@@ -4,7 +4,7 @@
 
 - The project owner selected `trace-the-ace` for the private repository. Existing project changes were already committed locally.
 - The pre-upload audit checked 74 stored file blobs, generic commit identities, and local-only exclusions. All 43 Python sources compiled.
-- Publication will fast-forward `main` to the complete feature-branch history and upload both named branches. Account-specific remote configuration stays in local Git metadata.
+- Fast-forwarded `main` to the complete project history and uploaded both named branches. GitHub confirmed private visibility and `main` as the default branch. Account-specific remote configuration stays in local Git metadata.
 
 ## 2026-11-12 · Final competition context
 

@@ -4,7 +4,8 @@
 
 - [x] Confirm the repository name `trace-the-ace` and authenticated GitHub access.
 - [x] Audit stored file blobs, generic commit identities, source syntax, and local-only exclusions before upload.
-- Commit publication preparation locally, publish `main` and the feature branch to a private repository, and verify remote visibility and commit IDs.
+- [x] Commit publication preparation locally and publish `main` and the feature branch to a private repository with `main` as the default branch.
+- Verification criterion is matching local and remote commit IDs for both published branches after uploading the publication record.
 
 ## Final competition context · 2026-11-12
 

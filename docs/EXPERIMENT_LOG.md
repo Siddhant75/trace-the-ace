@@ -1,6 +1,6 @@
 # Official Experiment & Leaderboard Track Log
 
-> Private publication preparation (2026-11-12). Source and documentation were audited before repository upload. This maintenance adds no training runs or benchmark measurements.
+> Private repository publication (2026-11-12). Audited source and documentation were uploaded on `main` and the feature branch, with private visibility verified. This maintenance adds no training runs or benchmark measurements.
 
 > Final competition context (2026-11-12). The official site reports 1,150 registered participants and 7,386 entries. The finalized leaderboard contains 530 ranked rows. The project owner confirmed the matching final entry below. See the [official leaderboard](https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/leaderboard/).
 
