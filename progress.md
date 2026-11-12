@@ -1,5 +1,11 @@
 # Session Progress Log & Task Checklist
 
+## 2026-11-12 · Owner attribution and licensing
+
+- The earlier privacy choice anonymized commit author and committer metadata, preventing GitHub from linking contributions to the repository owner's account.
+- The project owner requested personal contributor attribution. The corrected policy uses the owner's GitHub-linked noreply identity and continues to exclude automated co-authors.
+- The project owner selected MIT after reviewing permissive licensing options and the competition's MIT requirement for winning solutions. Added the standard license using the owner's public GitHub handle as the copyright holder.
+
 ## 2026-11-12 · Contributor attribution
 
 - The project owner requested that AI assistants receive no project contributor or commit co-author attribution.

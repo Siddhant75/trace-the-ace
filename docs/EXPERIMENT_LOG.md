@@ -1,5 +1,7 @@
 # Official Experiment & Leaderboard Track Log
 
+> Owner attribution and licensing (2026-11-12). The commit policy uses the repository owner's GitHub noreply identity, and the owner selected MIT for the original project code. These changes add no model measurements.
+
 > Contributor policy maintenance (2026-11-12). Repository attribution instructions were updated, with verification covering local and published history. This task adds no model measurements.
 
 > Private repository publication (2026-11-12). Audited source and documentation were uploaded on `main` and the feature branch, with private visibility verified. This maintenance adds no training runs or benchmark measurements.

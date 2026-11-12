@@ -1,5 +1,12 @@
 # Task Plan: DrivenData "Trace the Ace" AI Student Mastery Prediction
 
+## Owner attribution and licensing · 2026-11-12
+
+- [x] Diagnose why the anonymous commit identity does not link contributions to the repository owner's GitHub account.
+- [x] Obtain the public account ID for GitHub noreply attribution and update the commit policy.
+- [x] Add the owner-selected MIT license and document its scope in the README.
+- Verification covers GitHub-linked authorship on both private branches, remote license detection, and continued exclusion of personal email addresses and automated co-authors.
+
 ## Contributor attribution · 2026-11-12
 
 - [x] Replace the automated attribution requirement with the project owner's contributor policy.

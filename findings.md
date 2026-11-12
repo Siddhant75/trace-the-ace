@@ -1,5 +1,11 @@
 # Comprehensive Root Cause Diagnosis: EXP-9 Leaderboard Analysis
 
+## Owner attribution and licensing · 2026-11-12
+
+- GitHub contribution attribution depends on commit email addresses associated with an account. A generic unassociated identity does not link commits to the owner.
+- GitHub's ID-based noreply format allows account attribution while keeping the personal email address private. See the [GitHub email reference](https://docs.github.com/en/account-and-profile/reference/email-addresses-reference).
+- The competition specifies MIT for winning solutions. Apache 2.0 includes an explicit patent grant. The project owner's license choice determines the original repository code's licensing. See the [competition rules](https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/rules/) and [Apache 2.0 text](https://www.apache.org/licenses/LICENSE-2.0.html).
+
 ## Contributor attribution · 2026-11-12
 
 - The earlier repository instructions required automated attribution in commit messages. The project owner's latest instruction supersedes that requirement.

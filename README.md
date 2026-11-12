@@ -85,3 +85,7 @@ This repository provides the source and experiment documentation. Reproduction r
 Run local scripts from the repository root and use the documented Kaggle runtime for the GPU entry points. For Kaggle download and log helpers, set `TRACE_ACE_KAGGLE_KERNEL` locally in `owner/kernel` form and configure authentication through the local credential store or environment. Follow the [single-archive rule](AGENTS.md) when selecting a submission builder.
 
 Datasets, transcripts, derived row-level outputs, checkpoints, submission archives, logs, credentials, and device-specific configuration stay local under the [ignore rules](.gitignore). Account references are supplied through local configuration.
+
+## License
+
+Original project code is available under the [MIT License](LICENSE). Third-party libraries, pretrained models, and competition datasets retain their respective licenses and terms of use.

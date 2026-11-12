@@ -1,5 +1,7 @@
 # 🏆 Challenge Briefing & Winning Strategy: Trace the Ace
 
+> Licensing (2026-11-12). The competition's winning-solution license is MIT. The project owner selected MIT for the original repository code. Third-party libraries, models, and datasets retain their own licensing terms. See the [competition requirements](https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/).
+
 > Contributor policy (2026-11-12). AI assistants receive no project contributor or commit co-author attribution under the project owner's instructions.
 
 > Repository publication (2026-11-12). Publish the source and documentation to a private repository while retaining the existing exclusions for competition data, fitted artifacts, credentials, and local configuration.
