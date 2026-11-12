@@ -1,5 +1,14 @@
 # Official Experiment & Leaderboard Track Log
 
+> Final competition context (2026-11-12). The official site reports 1,150 registered participants and 7,386 entries. The finalized leaderboard contains 530 ranked rows. The project owner confirmed the matching final entry below. See the [official leaderboard](https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/leaderboard/).
+
+| Final private evaluation | Rank | Log loss | ROC AUC |
+| --- | --- | --- | --- |
+| This project | 183 / 530 | 0.60791 | 0.60463 |
+| First-place entry | 1 / 530 | 0.59233 | 0.65088 |
+
+The absolute log-loss gap is 0.01558, or approximately 2.63% relative to first place. The experiment rows below preserve the earlier recorded evaluation results.
+
 > Portfolio documentation (2026-11-12). The README compares recorded EXP-1 and EXP-10 leaderboard scores. Local validation scores retain their experiment-specific context, including target encoding and blend selection. This documentation update adds no benchmark measurements.
 
 > Privacy maintenance (2026-11-12). Repository history and the application snapshot were sanitized, and commit identities were anonymized. This maintenance adds no model performance measurements.

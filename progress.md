@@ -1,5 +1,12 @@
 # Session Progress Log & Task Checklist
 
+## 2026-11-12 · Final competition context
+
+- Verified the official competition's 1,150 registered participants and counted 530 ranked entries across all 11 leaderboard pages.
+- The finalized private leaderboard's first-place result is 0.59233 log loss and 0.65088 ROC AUC. Added the sourced context to the README.
+- The project owner confirmed the final entry at rank 183 of 530, log loss 0.60791, and ROC AUC 0.60463. Added the final result and a first-place comparison to the README while keeping historical submission metrics separate.
+- Verified 530 unique ranks, score consistency, exact gap arithmetic, local links, and privacy patterns before committing the documentation.
+
 ## 2026-11-12 · Portfolio documentation
 
 - Rewrote the README around supervised student-outcome prediction, NLP feature engineering, transformer training, calibrated ensembles, and offline inference packaging.

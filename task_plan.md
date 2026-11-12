@@ -1,5 +1,12 @@
 # Task Plan: DrivenData "Trace the Ace" AI Student Mastery Prediction
 
+## Final competition context · 2026-11-12
+
+- [x] Verify registration count, ranked-entry count, first-place metrics, and final leaderboard status from the official site.
+- [x] Add the verified competition context to the README with source links and the verification date.
+- [x] Confirm the project owner's final leaderboard entry before attributing a rank or comparing the final private scores.
+- [x] Record rank 183 of 530, final private metrics, and the first-place log-loss comparison with distinct evaluation contexts.
+
 ## Portfolio documentation · 2026-11-12
 
 - [x] Review source implementations and historical metrics for supported portfolio claims.

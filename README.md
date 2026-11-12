@@ -4,6 +4,8 @@
 
 A supervised machine learning and NLP project that combines tutoring dialogue, session metadata, transformer representations, and calibrated ensembles to estimate the probability of a correct assessment response.
 
+**Final standing 183 of 530 ranked entries · Final private log loss 0.60791 · ROC AUC 0.60463**
+
 Developed for DrivenData's Trace the Ace challenge, the project spans feature engineering, GPU model training, grouped validation, experiment analysis, and packaging for offline inference. Its recorded leaderboard log loss improved from **0.6450 to 0.6102**, a **5.4% relative reduction** across the documented submission experiments. The task is described in the [DrivenData reference solution](https://blog.drivendata.org/blog/productive-math-talk-reference), and the submission results are recorded in the [experiment log](docs/EXPERIMENT_LOG.md).
 
 ## The problem
@@ -37,6 +39,17 @@ The repository contains several experimental variants of this architecture. Thei
 - **Inference engineering.** Includes submission builders, a local evaluation harness, and package checks for offline execution, model assets, output format, and finite predictions. See the [package builder](src/package_exp15_submission.py) and [submission auditor](src/audit_submission_package.py).
 
 ## Recorded results
+
+The finalized competition reports **1,150 registered participants**. Its leaderboard contains **530 ranked entries**. These counts describe registration and scored entries respectively. Verified on November 12, 2026 against the [official competition](https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/) and [final leaderboard](https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/leaderboard/).
+
+| Final private evaluation | Rank | Log loss ↓ | ROC AUC ↑ |
+| --- | --- | --- | --- |
+| This project | **183 / 530** | **0.60791** | **0.60463** |
+| First-place entry | 1 / 530 | 0.59233 | 0.65088 |
+
+The absolute log-loss gap to first place is **0.01558**, or **2.63%** relative to the first-place loss.
+
+Earlier leaderboard records show the progression across submission experiments.
 
 | Submission | Evaluation | Log loss ↓ | ROC AUC ↑ |
 | --- | --- | --- | --- |

@@ -1,5 +1,7 @@
 # 🏆 Challenge Briefing & Winning Strategy: Trace the Ace
 
+> Final competition context (verified 2026-11-12). The official site lists 1,150 registered participants and finalized leaderboard results. This project finished 183 of 530 ranked entries, with final private log loss 0.60791 and ROC AUC 0.60463. First-place private log loss is 0.59233. The strategy and targets below preserve historical planning. See the [final leaderboard](https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/leaderboard/).
+
 > Portfolio framing (2026-11-12). The README presents the implemented work as supervised quiz-correctness prediction using tutoring dialogue and metadata, with NLP, transformer training, calibrated ensembles, and offline inference packaging.
 
 > Repository privacy (2026-11-12). Keep competition datasets, derived row-level outputs, fitted assets, credentials, private account references, and device-specific configuration in ignored local files.

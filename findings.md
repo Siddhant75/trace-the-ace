@@ -1,5 +1,13 @@
 # Comprehensive Root Cause Diagnosis: EXP-9 Leaderboard Analysis
 
+## Final leaderboard verification · 2026-11-12
+
+- The official site reports finalized results, 1,150 registered participants, and 7,386 entries. The leaderboard itself contains 530 ranked participant or team rows.
+- The first-place final private score is 0.59233 log loss with 0.65088 ROC AUC. The earlier 0.5898 planning target is not the verified final first-place score.
+- Use the ranked-entry count for a leaderboard percentile. Registered participants and submission entries describe different populations.
+- The project owner confirmed the final entry at rank 183 of 530, log loss 0.60791, and ROC AUC 0.60463. The absolute loss gap to first place is 0.01558, approximately 2.63% relative to the first-place loss.
+- Sources are the [competition overview](https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/) and [final leaderboard](https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/leaderboard/).
+
 ## Portfolio evidence · 2026-11-12
 
 - Source inspection supports supervised classification, domain-informed NLP, transformer fine-tuning, calibrated ensembles, and offline inference packaging as portfolio strengths.
