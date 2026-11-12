@@ -1,5 +1,10 @@
 # Task Plan: DrivenData "Trace the Ace" AI Student Mastery Prediction
 
+## Contributor attribution · 2026-11-12
+
+- [x] Replace the automated attribution requirement with the project owner's contributor policy.
+- Verification covers historical commit messages, historical instructions, explicit branch leases, and remote commit readback.
+
 ## Private repository publication · 2026-11-12
 
 - [x] Confirm the repository name `trace-the-ace` and authenticated GitHub access.

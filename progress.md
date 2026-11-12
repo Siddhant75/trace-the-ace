@@ -1,5 +1,10 @@
 # Session Progress Log & Task Checklist
 
+## 2026-11-12 · Contributor attribution
+
+- The project owner requested that AI assistants receive no project contributor or commit co-author attribution.
+- Updated the repository instructions. The history cleanup covers both published branches and preserves the existing generic commit identity.
+
 ## 2026-11-12 · Private repository publication
 
 - The project owner selected `trace-the-ace` for the private repository. Existing project changes were already committed locally.

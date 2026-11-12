@@ -1,5 +1,7 @@
 # 🏆 Challenge Briefing & Winning Strategy: Trace the Ace
 
+> Contributor policy (2026-11-12). AI assistants receive no project contributor or commit co-author attribution under the project owner's instructions.
+
 > Repository publication (2026-11-12). Publish the source and documentation to a private repository while retaining the existing exclusions for competition data, fitted artifacts, credentials, and local configuration.
 
 > Final competition context (verified 2026-11-12). The official site lists 1,150 registered participants and finalized leaderboard results. This project finished 183 of 530 ranked entries, with final private log loss 0.60791 and ROC AUC 0.60463. First-place private log loss is 0.59233. The strategy and targets below preserve historical planning. See the [final leaderboard](https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/leaderboard/).

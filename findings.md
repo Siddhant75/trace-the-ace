@@ -1,5 +1,10 @@
 # Comprehensive Root Cause Diagnosis: EXP-9 Leaderboard Analysis
 
+## Contributor attribution · 2026-11-12
+
+- The earlier repository instructions required automated attribution in commit messages. The project owner's latest instruction supersedes that requirement.
+- Removing historical attribution requires rewriting commit messages and the historical instruction text before replacing the published branch tips.
+
 ## Private publication preparation · 2026-11-12
 
 - The local `main` branch initially contained the ignore-rules baseline. The feature branch contains the complete project and subsequent documentation, so publication needs a fast-forward of `main`.
