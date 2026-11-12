@@ -1,5 +1,10 @@
 # Comprehensive Root Cause Diagnosis: EXP-9 Leaderboard Analysis
 
+## Private publication preparation · 2026-11-12
+
+- The local `main` branch initially contained the ignore-rules baseline. The feature branch contains the complete project and subsequent documentation, so publication needs a fast-forward of `main`.
+- Pre-upload checks found no matches for audited privacy patterns in 74 stored file blobs. Local datasets, fitted assets, private helpers, and account configuration remain excluded.
+
 ## Final leaderboard verification · 2026-11-12
 
 - The official site reports finalized results, 1,150 registered participants, and 7,386 entries. The leaderboard itself contains 530 ranked participant or team rows.

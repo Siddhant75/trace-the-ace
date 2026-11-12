@@ -1,5 +1,11 @@
 # Task Plan: DrivenData "Trace the Ace" AI Student Mastery Prediction
 
+## Private repository publication · 2026-11-12
+
+- [x] Confirm the repository name `trace-the-ace` and authenticated GitHub access.
+- [x] Audit stored file blobs, generic commit identities, source syntax, and local-only exclusions before upload.
+- Commit publication preparation locally, publish `main` and the feature branch to a private repository, and verify remote visibility and commit IDs.
+
 ## Final competition context · 2026-11-12
 
 - [x] Verify registration count, ranked-entry count, first-place metrics, and final leaderboard status from the official site.
