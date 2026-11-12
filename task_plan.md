@@ -1,5 +1,11 @@
 # Task Plan: DrivenData "Trace the Ace" AI Student Mastery Prediction
 
+## Portfolio documentation · 2026-11-12
+
+- [x] Review source implementations and historical metrics for supported portfolio claims.
+- [x] Describe the prediction task, pipeline, technical strengths, results, and reproduction requirements in the README.
+- [x] Verify documentation links, benchmark arithmetic, and privacy before committing the documentation update.
+
 ## Repository privacy audit · 2026-11-12
 
 - [x] Inspect every original commit for tracked data, fitted artifacts, credentials, device paths, and private account references.

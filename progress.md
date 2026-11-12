@@ -1,5 +1,12 @@
 # Session Progress Log & Task Checklist
 
+## 2026-11-12 · Portfolio documentation
+
+- Rewrote the README around supervised student-outcome prediction, NLP feature engineering, transformer training, calibrated ensembles, and offline inference packaging.
+- Used the recorded EXP-1 and EXP-10 leaderboard scores for the headline comparison. Local validation scores retain their encoding and model-selection context.
+- Described the project as applied machine learning and NLP, with supporting source links and reproduction requirements.
+- Verified all 23 local README links, the relative log-loss calculation, Markdown fences, documentation change scope, and privacy patterns.
+
 ## 2026-11-12 · Repository privacy audit
 
 - The initial Git setup excluded datasets, model artifacts, logs, and the five credential-bearing helpers. It missed device-specific links in three Markdown files and private Kaggle account references in three Python files.

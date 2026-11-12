@@ -1,5 +1,11 @@
 # Comprehensive Root Cause Diagnosis: EXP-9 Leaderboard Analysis
 
+## Portfolio evidence · 2026-11-12
+
+- Source inspection supports supervised classification, domain-informed NLP, transformer fine-tuning, calibrated ensembles, and offline inference packaging as portfolio strengths.
+- The recorded leaderboard log-loss change from 0.6450 to 0.6102 is approximately a 5.4% relative reduction.
+- EXP-16's full-data target encodings and blend selection on out-of-fold predictions limit interpretation of local metrics. Portfolio text uses the recorded leaderboard result and explains the local validation context.
+
 ## Repository privacy findings · 2026-11-12
 
 - The first audit checked file extensions and recognizable credential strings. It did not check device paths, private account references in source, or commit identities.

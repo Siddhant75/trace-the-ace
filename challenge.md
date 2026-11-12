@@ -1,5 +1,7 @@
 # 🏆 Challenge Briefing & Winning Strategy: Trace the Ace
 
+> Portfolio framing (2026-11-12). The README presents the implemented work as supervised quiz-correctness prediction using tutoring dialogue and metadata, with NLP, transformer training, calibrated ensembles, and offline inference packaging.
+
 > Repository privacy (2026-11-12). Keep competition datasets, derived row-level outputs, fitted assets, credentials, private account references, and device-specific configuration in ignored local files.
 
 > **Role**: Lead Developer & AI Systems Partner  

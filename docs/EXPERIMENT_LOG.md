@@ -1,5 +1,7 @@
 # Official Experiment & Leaderboard Track Log
 
+> Portfolio documentation (2026-11-12). The README compares recorded EXP-1 and EXP-10 leaderboard scores. Local validation scores retain their experiment-specific context, including target encoding and blend selection. This documentation update adds no benchmark measurements.
+
 > Privacy maintenance (2026-11-12). Repository history and the application snapshot were sanitized, and commit identities were anonymized. This maintenance adds no model performance measurements.
 
 > Workspace note (2026-11-06). The table preserves historical experiment records and submission plans. This workspace pass did not rerun benchmarks or confirm an EXP-16 leaderboard score. Fitted artifacts and submission archives are kept locally.
