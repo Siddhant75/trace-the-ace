@@ -16,6 +16,8 @@ This project predicts whether a student will answer a post-tutoring math assessm
 
 Start with the [challenge brief](challenge.md), [task plan](task_plan.md), and [findings](findings.md). Run local Python commands from the repository root. The Kaggle kernel entry points use their own runtime paths, and scripts that call Kaggle require separately configured account access.
 
+For the Kaggle download and log helpers, set `TRACE_ACE_KAGGLE_KERNEL` locally to the kernel reference in `owner/kernel` form. Configure authentication through Kaggle's local credential store or environment. Keep account references, credentials, and device paths in ignored local configuration.
+
 ## Local inputs and outputs
 
 Git tracks source and documentation. Keep competition data under `datasets/`, fitted DeBERTa assets under `src/models/`, and generated CSV and SVD artifacts at the paths the training scripts already use. Submission archives, scratch directories, logs, private Kaggle configuration, and legacy helpers with embedded credentials are local-only. See [`.gitignore`](.gitignore) for the exact rules.

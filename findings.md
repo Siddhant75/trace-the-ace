@@ -1,5 +1,11 @@
 # Comprehensive Root Cause Diagnosis: EXP-9 Leaderboard Analysis
 
+## Repository privacy findings · 2026-11-12
+
+- The first audit checked file extensions and recognizable credential strings. It did not check device paths, private account references in source, or commit identities.
+- Ignore rules control untracked paths. Cleaning previously committed content requires rewriting the affected historical objects as well.
+- Kaggle helper scripts now obtain their kernel reference from a local environment variable. The offline container and Kaggle runtime paths in training code describe execution interfaces.
+
 ## Workspace inventory · 2026-11-06
 
 - Dataset files, row-level exports, fitted models, and Kaggle logs belong to the local workspace. Existing training and packaging scripts resolve several of these by their current paths.

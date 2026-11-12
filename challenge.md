@@ -1,5 +1,7 @@
 # 🏆 Challenge Briefing & Winning Strategy: Trace the Ace
 
+> Repository privacy (2026-11-12). Keep competition datasets, derived row-level outputs, fitted assets, credentials, private account references, and device-specific configuration in ignored local files.
+
 > **Role**: Lead Developer & AI Systems Partner  
 > **Target Competition**: Trace the Ace – Tutoring Outcomes Prediction Challenge  
 > **Platform**: K-12 AI Infrastructure Program (Digital Promise & DrivenData)  

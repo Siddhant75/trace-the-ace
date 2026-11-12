@@ -1,5 +1,13 @@
 # Session Progress Log & Task Checklist
 
+## 2026-11-12 · Repository privacy audit
+
+- The initial Git setup excluded datasets, model artifacts, logs, and the five credential-bearing helpers. It missed device-specific links in three Markdown files and private Kaggle account references in three Python files.
+- Replaced the links with repository-relative targets and made Kaggle helper targets configurable through `TRACE_ACE_KAGGLE_KERNEL`.
+- The user approved rewriting the three unpublished commits and anonymizing author and committer identities. Ignore coverage now includes further data formats, model exports, notebooks, archives, and local configuration.
+- The three Kaggle helper flows passed checks using mocked services. All 43 tracked Python sources compiled. The history cleanup also covers the application snapshot tree that retained earlier file contents.
+- Rewrote the original three commits, added this audit record, and verified all retained file blobs and commit identities. Superseded objects and reflog entries were removed. Existing ignored datasets, fitted assets, credentials, and local helpers were preserved.
+
 ## 2026-11-06 · Workspace organization
 
 - Inventoried a workspace without Git history and added ignore rules for private and generated files.

@@ -1,5 +1,7 @@
 # Official Experiment & Leaderboard Track Log
 
+> Privacy maintenance (2026-11-12). Repository history and the application snapshot were sanitized, and commit identities were anonymized. This maintenance adds no model performance measurements.
+
 > Workspace note (2026-11-06). The table preserves historical experiment records and submission plans. This workspace pass did not rerun benchmarks or confirm an EXP-16 leaderboard score. Fitted artifacts and submission archives are kept locally.
 
 ## 📊 Summary Table

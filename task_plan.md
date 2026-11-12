@@ -1,5 +1,13 @@
 # Task Plan: DrivenData "Trace the Ace" AI Student Mastery Prediction
 
+## Repository privacy audit · 2026-11-12
+
+- [x] Inspect every original commit for tracked data, fitted artifacts, credentials, device paths, and private account references.
+- [x] Replace device-specific documentation links and move Kaggle kernel references to local environment configuration.
+- [x] Expand ignore coverage for dataset formats, model exports, archives, notebooks, and local configuration.
+- [x] Verify three Kaggle helper flows with mocked services and compile all 43 tracked Python sources.
+- [x] Rewrite the three unpublished commits and the application snapshot tree, use generic author and committer identities, and verify the remaining objects after removing superseded history and reflogs.
+
 ## Workspace organization · 2026-11-06
 
 - [x] Inventory source, historical plans, datasets, checkpoints, and generated outputs.
